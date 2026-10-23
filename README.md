@@ -15,3 +15,9 @@ A "second self" for your business. Every day it **observes real data**, **propos
 5. Automatic: in GitHub, add the secrets (`SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `LLM_*`) and set the variable `MAXI_ACTIVO=true`.
 
 `npm test` runs the core tests. MIT license. Created by Maximiliano Olmos (Island Crew).
+
+## Credits
+
+Created by **Maximiliano Olmos** · Island Crew · https://github.com/MAXIMILIANOGROSS
+
+If you use or adapt this project, please keep this credit and the LICENSE notice.
