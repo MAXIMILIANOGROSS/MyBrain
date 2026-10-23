@@ -1,3 +1,3 @@
-{ "name": "mybrain", "version": "0.1.0", "private": false, "type": "module", "author": "Maximiliano Olmos", "license": "MIT",
+{ "name": "mybrain", "version": "0.1.0", "private": false, "type": "module", "author": "Maximiliano Olmos Sanchez", "license": "MIT",
   "scripts": { "test": "node --experimental-strip-types --test tests/*.test.mjs", "ciclo": "node --experimental-strip-types src/cli.ts ciclo", "pendientes": "node --experimental-strip-types src/cli.ts pendientes" },
   "dependencies": { "@supabase/supabase-js": "^2.45.0" } }
